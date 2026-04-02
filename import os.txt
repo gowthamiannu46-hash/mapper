@@ -71,7 +71,7 @@ def create_map(df):
     print("Map saved as map.html")
 
 
-folder = r"D:\maping\images\footballcourt "
+folder = r"D:\maping\images\footballcourt"
 
 df = process_images(folder)
 
